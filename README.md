@@ -42,3 +42,46 @@ This repository contains my solutions to the programming assignments given by [d
 - Be able to prioritize the most promising directions for reducing error
 - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 - Know how to apply end-to-end learning, transfer learning, and multi-task learning
+
+4. [Convolutional Neural Networks](https://github.com/ajaykumarr28/Deep-Learning-Specialization/tree/master/4%20-%20Convolutional%20Neural%20Networks) - This course taught me how to build convolutional neural networks and apply it to image data. After completing thsi course, I was able to:
+- Understand how to build a convolutional neural network, including recent variations such as residual networks.
+- Know how to apply convolutional networks to visual detection and recognition tasks.
+- Know to use neural style transfer to generate art.
+- Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+
+  Assignments - 
+  
+    Week 1 - [(i) Convolutional Neural Networks: Step by Step](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb) - 
+    
+    Week 1 - [(ii) Convolutional Neural Networks: Application](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb) - 
+    
+    Week 2 - [(i) Keras tutorial](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb) - 
+    
+    Week 2 - [(ii) Residual Networks](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb) - 
+    
+    Week 3 - [Autonomous driving - Car detection](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb) - 
+    
+    Week 4 - [(i) Deep Learning & Art: Neural Style Transfer](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v1.ipynb) - 
+    
+    Week 4 - [(ii) Face Recognition for the Happy House](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/4%20-%20Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v2.ipynb) - 
+
+5. [Sequence Models](https://github.com/ajaykumarr28/Deep-Learning-Specialization/tree/master/5%20-%20Sequence%20Models) - This course taught me how to build models for natural language, audio, and other sequence data. After this course, I was able to:
+- Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
+- Be able to apply sequence models to natural language problems, including text synthesis. 
+- Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+  Assignments - 
+  
+    Week 1 - [(i) Building a Recurrent Neural Network - Step by Step](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb) - 
+    
+    Week 1 - [(ii) Character level language model - Dinosaurus land](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb) - 
+    
+    Week 1 - [(iii) Improvise a Jazz Solo with an LSTM Network](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb) - 
+    
+    Week 2 - [(i) Operations on word vectors](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.ipynb) - 
+    
+    Week 2 - [(ii) Emojify!](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Emojify%20-%20v2.ipynb) - 
+    
+    Week 3 - [(i) Neural Machine Translation](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb) - 
+    
+    Week 3 - [(ii) Trigger Word Detection](https://github.com/ajaykumarr28/Deep-Learning-Specialization/blob/master/5%20-%20Sequence%20Models/Trigger%20word%20detection%20-%20v1.ipynb) - 
